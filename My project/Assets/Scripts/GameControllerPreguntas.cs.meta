@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 68889acac852c134594f20ed451515fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sonidoCorrecto: {fileID: 8300000, guid: 45d8929771c020344a866daea3c067a8, type: 3}
+  - sonidoIncorrecto: {fileID: 8300000, guid: fadd3f8d86c1c4245acbbe17534f177d, type: 3}
+  - audioManager: {instanceID: 0}
+  - txtPregunta: {instanceID: 0}
+  - txtRespuesta1: {instanceID: 0}
+  - txtRespuesta2: {instanceID: 0}
+  - txtRespuesta3: {instanceID: 0}
+  - txtRespuesta4: {instanceID: 0}
+  - txtPreguntaVF: {instanceID: 0}
+  - txtPreguntaPA: {instanceID: 0}
+  - txtRespuesta1VF: {instanceID: 0}
+  - txtRespuesta2VF: {instanceID: 0}
+  - txtRepsuestaPA: {instanceID: 0}
+  - panelPreguntasPM: {instanceID: 0}
+  - panelPreguntasVF: {instanceID: 0}
+  - panelPreguntasPA: {instanceID: 0}
+  - panelCorrecto: {instanceID: 0}
+  - panelIncorrecto: {instanceID: 0}
+  - panelrespuestaPA: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
